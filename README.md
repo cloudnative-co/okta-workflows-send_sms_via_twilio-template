@@ -1,7 +1,7 @@
-# Okta Workflows Twilioを使用してSMSを送信するテンプレート
+# Twilioを使用してSMSを送信するOkta Workflows Template
 
-このリポジトリには、Okta Workflowsを使用してTwilio経由でSMSメッセージを送信するためのテンプレートが含まれています。
+このリポジトリには、Twilio経由でSMSメッセージを送信するためのOkta Workflowsのテンプレートが含まれています。
 
 ## 利用方法
 
-- https://blog.cloudnative.co.jp/okta-workflows-twilio-sms-template/ を参照してください。 
+- https://blog.cloudnative.co.jp/okta-workflows-twilio-sms-template/ を参照してください。
